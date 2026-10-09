@@ -1,0 +1,26 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+
+# iOS / macOS
+ios/Pods/
+ios/.symlinks/
+macos/Pods/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Archivos generados por build_runner (opcional quitar si quieres versionarlos)
+# *.g.dart
