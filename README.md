@@ -64,6 +64,24 @@ flutter run
 
 ## 📸 Capturas de pantalla
 
+### Pantalla inicio
+
+![Pantalla principal de Ingreso](lib/screenshots/inicio_ingreso.jfif)
+![Pantalla principal de Nombre](lib/screenshots/inico_nombre.jfif)
+
+### Modo oscuro
+
+![Chat modo Oscuro](lib/screenshots/chat modo oscuro.jfif)
+![Chat modo Oscuro gastos](lib/screenshots/chat de gasto.jfif)
+![Chat modo Oscuro ingreso](lib/screenshots/chat ingreso.jfif)
+![Chat modo Oscuro objetivos](lib/screenshots/objetivos.jfif)
+![Modo oscuro inicio ](lib/screenshots/inicio modo oscuro.jfif)
+
+### Modo claro
+
+![Modo claro incio](lib/screenshots/modo claro1.jfif)
+![Modo claro perfil](lib/screenshots/modo claro3.jfif)
+![Modo claro chat](lib/screenshots/modo claro2.jfif)
 
 
 ## 👨‍💻 Autor
